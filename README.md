@@ -24,6 +24,12 @@ The video call takes place via Google Meet, a well known video service, while th
 * Once the video call is finished the program should go back to detecting movement at the front door with the motion sensor.
 * Take screenshots using the Pi camera every 10 seconds acting as a CCTV.
 * Build a 3D printed enclosing case for the components using BlocksCAD Software.
+# Pins Used: 
+* Push button : Pin 17 (3.3v) and Pin 29 (GPIO 5).
+* Motion Sensor : Pin 4 (5v Power), pin 11 (GPIO 17) and pin 14 (GND Ground).
+* Speaker : Pin 2 (5v Power) and pin 6 (GND Ground). The wires should also be connected to the same pins found on the speaker.
+
+
 
 
 
