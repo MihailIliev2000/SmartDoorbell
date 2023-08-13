@@ -1,7 +1,9 @@
 # Import required libraries
 import RPi.GPIO as GPIO
 import time
+import webbrowser
 import subprocess
+from twilio.rest import Client
 
 # Set GPIO pin mode to BCM
 GPIO.setmode(GPIO.BCM)
