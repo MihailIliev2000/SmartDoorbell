@@ -29,6 +29,8 @@ The video call takes place via Google Meet, a well known video service, while th
 * Motion Sensor : Pin 4 (5v Power), pin 11 (GPIO 17) and pin 14 (GND Ground).
 * Speaker : Pin 2 (5v Power) and pin 6 (GND Ground). The wires should also be connected to the same pins found on the speaker.
 
+  ![](images/riskregister3.png?raw=true)
+
 
 
 
